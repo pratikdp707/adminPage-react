@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/adminPage-react/static/css/main.7c785908.chunk.css",
+    "main.js": "/adminPage-react/static/js/main.737a7c9c.chunk.js",
+    "main.js.map": "/adminPage-react/static/js/main.737a7c9c.chunk.js.map",
+    "runtime-main.js": "/adminPage-react/static/js/runtime-main.fb4781e8.js",
+    "runtime-main.js.map": "/adminPage-react/static/js/runtime-main.fb4781e8.js.map",
+    "static/js/2.90e9e857.chunk.js": "/adminPage-react/static/js/2.90e9e857.chunk.js",
+    "static/js/2.90e9e857.chunk.js.map": "/adminPage-react/static/js/2.90e9e857.chunk.js.map",
+    "static/js/3.1f3b3fb0.chunk.js": "/adminPage-react/static/js/3.1f3b3fb0.chunk.js",
+    "static/js/3.1f3b3fb0.chunk.js.map": "/adminPage-react/static/js/3.1f3b3fb0.chunk.js.map",
+    "index.html": "/adminPage-react/index.html",
+    "static/css/main.7c785908.chunk.css.map": "/adminPage-react/static/css/main.7c785908.chunk.css.map",
+    "static/js/2.90e9e857.chunk.js.LICENSE.txt": "/adminPage-react/static/js/2.90e9e857.chunk.js.LICENSE.txt",
+    "static/media/undraw_profile.28817a9a.svg": "/adminPage-react/static/media/undraw_profile.28817a9a.svg",
+    "static/media/undraw_profile_1.c2807abf.svg": "/adminPage-react/static/media/undraw_profile_1.c2807abf.svg",
+    "static/media/undraw_profile_2.9620ba4c.svg": "/adminPage-react/static/media/undraw_profile_2.9620ba4c.svg",
+    "static/media/undraw_profile_3.0c5231bd.svg": "/adminPage-react/static/media/undraw_profile_3.0c5231bd.svg",
+    "static/media/undraw_rocket.6040710a.svg": "/adminPage-react/static/media/undraw_rocket.6040710a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb4781e8.js",
+    "static/js/2.90e9e857.chunk.js",
+    "static/css/main.7c785908.chunk.css",
+    "static/js/main.737a7c9c.chunk.js"
+  ]
+}
