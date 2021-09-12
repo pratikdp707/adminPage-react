@@ -1,23 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
+import NavBar from "./Components/NavBar";
+import SideNavbar from "./Components/SideNavbar";
+import "./Components/App.css"
+import BeginPage from "./Components/BeginPage";
+import AreaChart from "./Components/AreaChart";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div id="wrapper">
+      <SideNavbar />
+      <div id="content-wrapper" class="d-flex flex-column">
+        <div id="content">
+
+          <NavBar />
+          <BeginPage monthlyEarning = "$40,000" annualEarning="$215,000" taskCompleted ={40} pendingRequests ={18}/>
+          <AreaChart/>
+        </div>
+      </div>
     </div>
   );
 }
